@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hva23
-- 👀 I’m interested in programming and electronics.
-- 🌱 I’m currently learning C,C++.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Hossein
+- 👀 I’m interested in programming and electronics and everything is related to tech.
+- 🌱 I’m currently learning java.
 - 📫 How to reach me: telegram ID: @hva23
 
 <!---
