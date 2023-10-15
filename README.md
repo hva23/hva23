@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
-<h3 align="center">I'm interested in Electronics and development.</h3>
+<h3 align="center">I'm interested in Electronics and Computer</h3>
 
 - 🌱 I’m currently learning **spring boot, advance Electronic and advance MCU programming**
 
