@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
 <h3 align="center">I'm interested in Electronics and Computer</h3>
 
-- 🌱 I’m currently learning **spring boot, advance Electronic and advance MCU programming**
+- 🌱 I’m currently learning **advance spring boot, advance Electronic and advance MCU programming**
 
 - 💬 Ask me about **Java, C, C++, ESP32, STM32, Arduino and Electronic**
 
